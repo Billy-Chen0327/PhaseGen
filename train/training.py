@@ -1,3 +1,4 @@
+import os
 import copy
 import torch
 import config
@@ -50,6 +51,8 @@ def main(net_D, net_G, data_iter, num_epochs, lr_D, lr_G, latent_dim):
 if __name__ == '__main__':
     
     settings = config.settings;
+    if not os.path.exists('./model'):
+        os.mkdir('./model');
 
     seed = settings['seed'];
     torch.manual_seed(seed);
