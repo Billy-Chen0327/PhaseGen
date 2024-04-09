@@ -28,7 +28,7 @@ Training dataset is located in: **train/data/ ** and saved as npz format.
 
 If you find PhaseGen useful, please cite the following reference:
 
-Guoyi Chen, Junlun Li and Hao Guo; Deep generative model conditioned by phase picks for synthesizing labeled seismic waveforms with limited data. *arXiv preprint*, 2023; doi: [ https://doi.org/10.48550/arXiv.2309.11297](https://doi.org/10.48550/arXiv.2309.11297)
+Guoyi Chen, Junlun Li and Hao Guo; Deep generative model conditioned by phase picks for synthesizing labeled seismic waveforms with limited data. *IEEE TGRS*, 2024; doi: [10.1109/TGRS.2024.3384768](https://doi.org/10.1109/TGRS.2024.3384768)
 
 ## License
 
