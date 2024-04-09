@@ -22,7 +22,7 @@ Training code is located in directory: **train/**
 
 The training parameter can be set by **config.py**
 
-Training dataset is located in: **train/data/ ** and saved as npz format.
+Training dataset is located in: **train/data/** and saved as npz format.
 
 ##  Citation
 
